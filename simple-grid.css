@@ -1,0 +1,7 @@
+.main-layout {
+  min-height: 100vh;
+  min-height: 90dvh;
+  border: 3px solid limegreen;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
